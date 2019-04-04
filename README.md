@@ -2,11 +2,11 @@
 
 ### Requirements
 
-python 3+
-psycopg2
-dbt == 0.12.2
+* python 3+
+* psycopg2
+* dbt == 0.12.2
 
-postgresql (any recent version, locally installed)
+* postgresql (any recent version, locally installed)
 
 ### Set up:
 
